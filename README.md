@@ -1,6 +1,6 @@
 # Image Classification Model
 
-This repository contains a deep learning model for classifying images into categories such as 'buildings', 'forest', 'glacier', 'mountain', 'sea', and 'street'. The model, built using MobileNet transfer learning, achieved an 81% training accuracy and 78% validation accuracy.
+This repository contains a deep learning model for classifying images into categories such as 'buildings', 'forest', 'glacier', 'mountain', 'sea', and 'street'. The model, built using MobileNet transfer learning, achieved an 92% training accuracy and 90% validation accuracy.
 
 ## Computer Vision Work
 
